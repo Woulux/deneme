@@ -1,1 +1,2 @@
 # deneme
+derste yapılan örnek
